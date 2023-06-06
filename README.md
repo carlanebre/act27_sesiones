@@ -4,4 +4,4 @@
 - Permite a los administradores gestionar usuarios, realizar operaciones de Crear, Leer, Actualizar y Eliminar.
 - Las sesiones se utilizan para controlar el acceso de usuarios y proteger la información.
 
-Tecnologías usadas en este proyecto: PHP y MySQL.
+Tecnologías usadas en este proyecto: PHP, HTML y MySQL.
